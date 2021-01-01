@@ -416,3 +416,26 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
+----------
+
+Fri Jan 01 2021 19:56:30 GMT+0800 (Philippine Standard Time)
+
+To github.com:raketbizdev/raketbizdev.github.io.git
+   844817a..d17d63b  master -> master
+
+
+----------
+
+Fri Jan 01 2021 19:56:30 GMT+0800 (Philippine Standard Time)
+
+To github.com:raketbizdev/raketbizdev.github.io.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at d17d63b782074c1f57910b0912045910cf49f39f but expected 844817aa3ab975248bdf61f8b551b1aba6a08ed4)
+
+
+----------
+
+Fri Jan 01 2021 19:56:30 GMT+0800 (Philippine Standard Time)
+
+error: failed to push some refs to 'git@github.com:raketbizdev/raketbizdev.github.io.git'
+
+
