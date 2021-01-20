@@ -596,3 +596,37 @@ To github.com:raketbizdev/raketbizdev.github.io.git
    79b67e6..af2e9a8  master -> master
 
 
+----------
+
+Wed Jan 20 2021 22:57:58 GMT+0800 (Philippine Standard Time)
+
+To github.com:raketbizdev/raketbizdev.github.io.git
+   af2e9a8..3c7d8f6  master -> master
+
+
+----------
+
+Wed Jan 20 2021 22:58:01 GMT+0800 (Philippine Standard Time)
+
+To github.com:raketbizdev/raketbizdev.github.io.git
+   3c7d8f6..a172985  master -> master
+
+
+----------
+
+Wed Jan 20 2021 22:58:04 GMT+0800 (Philippine Standard Time)
+
+To github.com:raketbizdev/raketbizdev.github.io.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at a172985125335c2611d451e4d7d65ca4bd742228 but expected af2e9a83cbbf9e34843d1ea5b50435dcaab020c5)
+error: failed to push some refs to 'git@github.com:raketbizdev/raketbizdev.github.io.git'
+
+
+----------
+
+Wed Jan 20 2021 22:58:09 GMT+0800 (Philippine Standard Time)
+
+To github.com:raketbizdev/raketbizdev.github.io.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at a172985125335c2611d451e4d7d65ca4bd742228 but expected af2e9a83cbbf9e34843d1ea5b50435dcaab020c5)
+error: failed to push some refs to 'git@github.com:raketbizdev/raketbizdev.github.io.git'
+
+
