@@ -1,0 +1,25 @@
+.img-width {
+  width: 256px;
+  height: 256px;
+}
+
+hr.star-light:after {
+  background-color: #18bc9c;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption:hover {
+  opacity: 1;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  transition: all .5s ease;
+  opacity: 0;
+  background-color: rgba(24,188,156,.9);
+}
+
+@media (min-width:576px) {
+  .client .portfolio-item {
+    margin-bottom: 30px;
+  }
+}
+
