@@ -711,3 +711,20 @@ To github.com:raketbizdev/raketbizdev.github.io.git
    a45e997..e804121  master -> master
 
 
+----------
+
+Tue Feb 02 2021 21:17:47 GMT+0800 (Philippine Standard Time)
+
+Host key verification failed.
+
+
+----------
+
+Tue Feb 02 2021 21:17:47 GMT+0800 (Philippine Standard Time)
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
